@@ -1,1 +1,9 @@
-DOMAIN,apple.comscoreresearch.com
+#播客
+DOMAIN-SUFFIX,podcasts.apple.com
+#Apple Intelligence、Siri 和搜索
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,cp4.cloudflare.com
